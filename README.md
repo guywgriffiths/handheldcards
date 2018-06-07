@@ -1,6 +1,11 @@
-hand held cards
+Greeting cards web site builder
 =============
 
-The handheld app for the Cards management system
+A java app for building a cards management system web site
 
- - Manages site and catalog building and logs inventory levels
+ - fetches the master catalog from a remote site via HTTP
+ - fetches product images 
+ - builds a local catalog in HTML
+ - logs inventory levels
+ 
+ code ??? 
