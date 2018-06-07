@@ -1,6 +1,6 @@
-handheldcards
+hand held cards
 =============
 
 The handheld app for the Cards management system
 
- - Manages Sites, Customers, Inventory
+ - Manages site and catalog building and logs inventory levels
